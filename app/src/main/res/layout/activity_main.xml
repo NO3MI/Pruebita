@@ -29,7 +29,7 @@
             android:layout_margin="12dp"
             android:textColor="@android:color/black"
             android:gravity="center_horizontal"
-            android:text="HOLAAAAAA!" />
+            android:text="NOEMI!" />
 
         <TextView
 
